@@ -88,4 +88,5 @@ private let disposeBag = DisposeBag()
                cell.textLabel?.text = model.name
             }
         }
+    
 }
